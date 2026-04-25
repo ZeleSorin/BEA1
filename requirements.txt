@@ -1,0 +1,2 @@
+pyipv8==3.2.0
+cryptography==41.0.7
